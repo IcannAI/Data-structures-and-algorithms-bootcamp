@@ -20,8 +20,8 @@
 #### Day 18| Linked Lists Questions
 #### Day 19| Trees Intro
 #### Day 20| Binary Trees - 1
-#### D21 -
-#### D22 -
+#### Day 21| Binary Trees - 2
+#### Day 22| Binary Trees - 3
 #### D23 -
 #### D24 -
 #### D25 -
